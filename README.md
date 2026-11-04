@@ -1,6 +1,6 @@
 # VYGEO
 
-toto je zkusebni repozitar
+vylepsena verze
 
 ## Nadpis 2
 
